@@ -1,1 +1,1 @@
-# CNNArchitecture
+# CNN Architectures
